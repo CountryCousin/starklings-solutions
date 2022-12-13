@@ -2,7 +2,7 @@
 
 # Cairo supports short strings which are encoded as ASCII under the hood
 # The felt is the decimal representation of the string in hexadecimal ASCII
-# e.g. let hello_string = 'Hello'
+# e.g. let hello_string = 'Hello' 
 #      let hello_felt = 310939249775
 #      let hello_hex = 0x48656c6c6f
 # https://www.cairo-lang.org/docs/how_cairo_works/consts.html#short-string-literals
