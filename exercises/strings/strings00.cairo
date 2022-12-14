@@ -7,7 +7,7 @@
 #      let hello_hex = 0x48656c6c6f
 # https://www.cairo-lang.org/docs/how_cairo_works/consts.html#short-string-literals
 
-# I AM NOT DONE
+// # I AM NOT DONE
 
 # TODO: Fix the say_hello function by returning the appropriate short strings
 
