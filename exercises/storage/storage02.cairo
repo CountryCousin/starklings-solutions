@@ -12,8 +12,21 @@ end
 
 # TODO
 # Create a storage named wallet, mapping a felt to another
+
+@storage_var
+func wallet (id: felt) -> (amount: felt):
+end
+
 # Create a storage named height_map, mapping two felts to another
+
+@storage_var
+func height_map (length: felt, width: felt)  -> (height: felt):
+end
+
 # Create a storage named id, mapping a felt to an Id
+@storage_var
+func id (address: felt) -> (user: Id):
+end
 
 # TESTS #
 

@@ -2,7 +2,7 @@
 
 # Starknet provide persistent and mutable storage
 
-# I AM NOT DONE
+// # I AM NOT DONE
 
 # TODO
 # Create a storage named `bool` storing a single felt
