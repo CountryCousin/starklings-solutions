@@ -2,7 +2,7 @@
 
 # Starknet storage can be though about as a hashmap
 
-# I AM NOT DONE
+// # I AM NOT DONE
 
 struct Id:
     member age : felt
